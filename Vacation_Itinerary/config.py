@@ -1,3 +1,3 @@
-weather_api_key = "9160f8b9e345747c63abeea35e074911"
+weather_api_key = "KEY HERE"
 # Google API Key
-g_key = "AIzaSyBYux0j-g0DDR9R17EYgIDIllB9OuStKEY"
+g_key = "KEY HERE"
